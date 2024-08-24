@@ -3,6 +3,6 @@
 
 
   <div>
-<img align="right" height="150" src="https://i.gifer.com/XOsX.gif" />
+<img align="right" height="150" src="[https://i.gifer.com/XOsX.gif](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
 
