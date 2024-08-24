@@ -3,6 +3,6 @@
 
 
   <div>
-<img align="center" src="https://i.gifer.com/XOsX.gif](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" src="https://i.gifer.com/XOsX.gif" />
   </div>
 
